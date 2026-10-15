@@ -44,4 +44,5 @@ public class Main {
         System.out.println("get(" + a + ") = " + map.get(a));   // 50
         System.out.println("get(" + b + ") = " + map.get(b));   // 60
         System.out.println("get(" + c + ") = " + map.get(c));   // 70
+    }
 }
